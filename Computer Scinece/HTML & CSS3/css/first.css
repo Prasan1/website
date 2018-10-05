@@ -1,0 +1,164 @@
+/*
+Style for the nav menu
+*/
+
+#nav-menu{
+	display: block;
+	float:left;
+	margin-top: 5px;
+	clear: both;
+
+}
+
+/*
+navigation menu list
+*/
+
+
+
+ul.menu-tabs li{
+	color:#000;
+	list-style-type: none;
+	padding: 10px;
+	float:left;
+	font-size: 20px;
+	font-family: "Chakra Petch";
+}
+
+
+
+/* div tag of class body to style body section */
+
+.body{
+	margin-top:auto;
+	padding-top:10px;
+	clear: both;
+	
+}
+
+/* welcome msg as header */
+
+h2{
+	text-decoration: italic;
+	font-weight: bold;
+	font-size: 45px;
+	text-align: center;
+    color:#6f4e37;
+    margin-top: 50px;
+}
+
+/* Style for image (cup of coffee) */
+
+#image{
+	/*border:5px dashed salmon;*/
+	/*border-radius:5px;*/
+	/*cursor: pointer;*/
+	/*box-shadow: 5px 5px 20px #ccc;*/
+	display:block;
+	width:50%;
+	margin-left:auto;
+	margin-right: auto;
+
+}
+
+
+
+/* lets start the day header style */
+h3{
+   text-align: center;
+   font-size: 30px;
+   color:green;
+}
+
+/* text decoration for h2 tag with
+   underline text in gray color */
+
+h2{
+	text-decoration: underline;
+	text-decoration-color: gray;
+}
+
+
+
+
+
+
+
+/*
+Style for menu section
+*/
+
+
+
+/* menu-section div */
+.menu-section{
+	background-color: #996e54;
+	height: 600px;
+	width: 300px;
+	margin-left:auto;
+	margin-right: auto;
+	align-content: center;
+	border-radius:5px;
+	display: block;
+}
+
+
+/* title for menu */
+.menu-header{
+	color:#fff;
+}
+
+/* hr style */
+hr.style1{
+	border-top:3px double #fff;
+}
+
+
+
+/*menu list */
+
+ul li{
+	list-style-type: circle;
+	color:#ffa;
+
+}
+
+
+
+
+
+/* span tag for price */
+.tab{
+	float:right;
+	display: block;
+	clear: both;
+	margin-right: 15px;
+    
+}
+
+
+/* Menu for hot coffee */
+.hot-coffee{
+	
+    display: block;
+    
+    
+
+}
+
+
+/* menu for pastris */
+.pastris{
+	
+	display: block;
+	
+
+}
+
+/* address */
+#last-decor{
+	display: block;
+	margin-top: 20px;
+	text-align: center;
+}
+
